@@ -26,8 +26,11 @@ I'm currently focused on **backend development** and creating scalable, clean, a
 
 ## 📈 GitHub Stats
 
-![Kareem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kareem-Hanafy&show_icons=true&theme=radical)
+
+![Kareem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kareem-Hanafy&show_icons=true&count_private=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kareem-Hanafy&layout=compact&theme=radical)
+
+
 
 ## 📫 Connect With Me
 
