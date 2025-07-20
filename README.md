@@ -26,13 +26,13 @@ I'm currently focused on **backend development** and creating scalable, clean, a
 
 ## 📈 GitHub Stats
 
-![Kareem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kareem-20&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kareem-20&layout=compact&theme=radical)
+![Kareem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kareem-Hanafy&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kareem-Hanafy&layout=compact&theme=radical)
 
 ## 📫 Connect With Me
 
-- LinkedIn: [linkedin.com/in/kareemadel20](https://linkedin.com/in/kareemadel20)
-- Fiverr: [fiverr.com/kareem_20](https://www.fiverr.com/kareem_20)
+- LinkedIn: [linkedin.com/in/kareemadelHanafy](https://linkedin.com/in/kareemadelHanafy)
+- Fiverr: [fiverr.com/kareem_Hanafy](https://www.fiverr.com/kareem_Hanafy)
 - Email: kareem.adel.dev@gmail.com
 
 ---
