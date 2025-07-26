@@ -23,7 +23,7 @@ I'm a passionate software developer with **4+ years of experience** crafting ful
 - Angular | Ionic | HTML | SCSS  
 
 **Databases**
-- MongoDB | Firebase Realtime DB | MySQL
+- MongoDB | PostgreSql | Firebase Realtime DB | MsSql
 
 **Tools & Platforms**
 - Git & GitHub | Postman | Docker  
@@ -46,7 +46,7 @@ I'm a passionate software developer with **4+ years of experience** crafting ful
 
 - 💼 [LinkedIn](https://linkedin.com/in/kareemadelHanafy)
 - 💻 [Fiverr](https://www.fiverr.com/kareem_Hanafy)
-- 📧 kareem.adel.dev@gmail.com
+- 📧 kareemHanafydev@gmail.com
 
 ---
 
